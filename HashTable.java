@@ -93,7 +93,5 @@ public class HashTable {
         bucketArray[i].next = oldArray[i].next;
       }
     }
-   
   }
-  
 }
